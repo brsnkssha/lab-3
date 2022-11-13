@@ -73,32 +73,3 @@
             }   
     
 }
-
-
-h1{
-    text-align: center;
-}
-
-.block_1{
-    border:solid black;
-    background-color: rgb(212, 253, 253);
-}
-
-    .block_2{
-        border:solid black;
-        background-color: rgb(212, 253, 253);
-    }
-
-        .block_3{
-            border:solid black;
-            background-color: rgb(212, 253, 253);
-        }
-.title span{
-    border:solid 2px rgb(7, 4, 0);
-    background-color:rgb(247, 253, 212);
-}
-.title{
-    position: relative;
-    left: 1px;
-    text-align: right;
-}
