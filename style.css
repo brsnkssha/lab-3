@@ -81,21 +81,21 @@ h1{
 
 .block_1{
     border:solid black;
-    background-color: aqua;
+    background-color: rgb(212, 253, 253);
 }
 
     .block_2{
         border:solid black;
-        background-color: aqua;
+        background-color: rgb(212, 253, 253);
     }
 
         .block_3{
             border:solid black;
-            background-color: aqua;
+            background-color: rgb(212, 253, 253);
         }
 .title span{
     border:solid 2px yellow;
-    background-color:aqua;
+    background-color:rgb(212, 253, 253);
 }
 .title{
     position: relative;
